@@ -1,2 +1,1 @@
-# CODSOFT
-Python programming virtual internship by CODSOFT
+Python Programming Internship – CodSoftThis repository contains all the tasks, projects, and documentation completed during the 4-week Python Programming Virtual Internship at CodSoft.The internship duration as per the offer letter was 01 November 2025 to 30 November 2025About the InternshipThe Python Programming internship focuses on building a strong foundation in Python while completing practical projects.Interns are required to complete at least 3 tasks to be eligible for the completion certificate python This internship emphasizes:Hands-on learningBuilding real-world mini-projectsProfessionalism and consistent workEnhancing technical skills
